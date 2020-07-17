@@ -1,0 +1,8 @@
+1.> Express Generator :-
+Express-generator is an all-in-one tool that allows you to quickly create a node-js application using the express library.
+
+>>>npm install -g express-generator 
+
+2.
+
+>>>express <project_name>
